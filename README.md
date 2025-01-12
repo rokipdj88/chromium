@@ -2,30 +2,6 @@
 
 
 
-# ⚠️ Important Notes
-
-Contoh untuk Pengguna Alibaba.
-
-Bila tidak bisa aksess setelah selesai install, pastikan port 3010,3011,3000,3001 telah tebuka untuk IPv4/IPv6
-Alibaba bisa aksess lewat panel console
-1. Login ke Console [Alibaba Cloud](ecs.console.aliyun.com)
-
-2. Buka Security Group
-Navigasi ke Elastic Compute Service (ECS).
-Pilih instance VPS Anda.
-Di panel sebelah kiri, klik Security Groups.
-
-4. Tambah Aturan Keamanan (Security Group Rule)
-Pilih Security Group yang terhubung dengan instance Anda.
-Klik tombol Add Rules atau Add Security Group Rule.
-
-6. Konfigurasi Aturan Port
-Masukkan detail berikut:
-
-All TCP tambahkan port 1 per 1 3010,3011,3000,3001 all/IPv4 & all/IPv6 - Save.
-
-Klik OK atau Save untuk menyimpan aturan.
-
 ## ✨ AUTO INSTALLATION
 
 ## Cara Menjalankan Script
@@ -42,6 +18,46 @@ wget https://github.com/rokipdj88/chromium/raw/main/chromium.sh -O chromium.sh &
 ```
 
 - 🔐 Buat Username dan Password.
+
+
+
+
+# ⚠️ Important Notes
+
+Contoh untuk Pengguna Alibaba.
+
+Bila tidak bisa aksess setelah selesai install, pastikan port 3010,3011,3000,3001 telah tebuka untuk IPv4/IPv6
+
+Alibaba bisa aksess lewat panel console
+
+1. Login ke Console [Alibaba Cloud](ecs.console.aliyun.com)
+   
+
+2. Buka Security Group
+   
+   
+Navigasi ke Elastic Compute Service (ECS).
+
+Pilih instance VPS Anda.
+
+Di panel sebelah kiri, klik Security Groups.
+
+
+3. Tambah Aturan Keamanan (Security Group Rule)
+   
+Pilih Security Group yang terhubung dengan instance Anda.
+
+Klik tombol Add Rules atau Add Security Group Rule.
+
+
+6. Konfigurasi Aturan Port
+   
+Masukkan detail berikut:
+
+All TCP tambahkan port 1 per 1 3010,3011,3000,3001 all/IPv4 & all/IPv6 - Save.
+
+Klik OK atau Save untuk menyimpan aturan.
+
 
 # 📝 DOCUMENT GUIDE
 
