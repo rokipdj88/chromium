@@ -57,6 +57,8 @@ Masukkan detail berikut:
 All TCP tambahkan port 3010,3011,3000,3001 all/IPv4 & all/IPv6 - Save.
 
 Klik OK atau Save untuk menyimpan aturan.
+![image](https://github.com/user-attachments/assets/b856db8c-6073-4f64-b009-a040069791d8)
+
 
 
 # 📝 DOCUMENT GUIDE
