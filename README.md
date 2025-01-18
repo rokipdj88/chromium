@@ -54,7 +54,7 @@ Klik tombol Add Rules atau Add Security Group Rule.
    
 Masukkan detail berikut:
 
-All TCP tambahkan port 1 per 1 3010,3011,3000,3001 all/IPv4 & all/IPv6 - Save.
+All TCP tambahkan port 3010,3011,3000,3001 all/IPv4 & all/IPv6 - Save.
 
 Klik OK atau Save untuk menyimpan aturan.
 
