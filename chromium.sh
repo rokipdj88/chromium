@@ -14,8 +14,6 @@ echo -e ' ╚═╝     ╚═╝ ╚═╝  ╚═╝   ╚════╝  ╚
 echo -e "${NC}"
 
 echo -e "${BLUE}Join our Telegram channel: https://t.me/NTExhaust${NC}"
-echo -e "${RED}-----------------------------------------------------${NC}"
-echo -e "${BLUE}Buy VPS 40K on Telegram Store: https://t.me/candrapn${NC}"
 sleep 5
 
 if ! command -v docker &> /dev/null; then
